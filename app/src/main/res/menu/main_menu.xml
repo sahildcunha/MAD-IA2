@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuUncheck"
+        android:title="Uncheck All" />
+
+    <item
+        android:id="@+id/menuDeletePacked"
+        android:title="Delete Packed Items" />
+
+    <item
+        android:id="@+id/menuDefaults"
+        android:title="Add Default Items" />
+
+</menu>
